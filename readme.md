@@ -14,8 +14,6 @@
 
 ## Table of Contents
 
-> If your `README` has a lot of info, section headers might be nice.
-
 - [Installation](#installation)
 - [Support](#support)
 - [Donations](#donations)
@@ -24,9 +22,6 @@
 ---
 
 ## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ### Clone
 
@@ -64,7 +59,7 @@ Reach out to me at one of the following places!
 
 ## Donations
 
-[![Support via Patreon](https://user-images.githubusercontent.com/17443546/74077226-c28bc380-4a50-11ea-8693-42c59fa84b9a.png)](https://www.patreon.com/ubaidillahhf)
+[![Support via Patreon](https://user-images.githubusercontent.com/17443546/74077566-45ae1900-4a53-11ea-8451-bdad3168342f.png)](https://www.patreon.com/ubaidillahhf)
 
 ---
 
