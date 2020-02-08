@@ -65,8 +65,8 @@ Reach out to me at one of the following places!
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[GPLv2 license](https://opensource.org/licenses/gpl-2.0.php)**
 - Modified By <a href="http://dreamcode.site" target="_blank">Dreamcode Indonesia</a>.
 - Copyright 2020 © <a href="https://themebeez.com/themes/orchid-store/" target="_blank">themebeez</a>.
