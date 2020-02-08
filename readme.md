@@ -68,4 +68,5 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="http://dreamcode.site" target="_blank">Dreamcode Indonesia</a>.
+- Modified By <a href="http://dreamcode.site" target="_blank">Dreamcode Indonesia</a>.
+- Copyright 2020 © <a href="https://themebeez.com/themes/orchid-store/" target="_blank">themebeez</a>.
